@@ -3,7 +3,7 @@
 
 Below we list the repositories containing the code artifacts from the different research fronts of the project.
 
-`Some repositories may be unavailable because there are paper under pair-review. But the articles will soon be available`
+`Some repositories may be unavailable because there are paper under pair-review. As papers are published, we will make the repositories public.`
 
 - WP2 - [Architecture](https://github.com/romoreira/SFI2-Facilities_Benchmarking)
 - WP3 - [Intelligent Infreastructure for Experimentation](https://github.com/romoreira/SFI2-Distributed-Orchestration)
