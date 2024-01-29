@@ -14,6 +14,8 @@ Below we list the repositories containing the code artifacts from the different 
   - IDM [Security](https://github.com/romoreira/SFI2-IDM)
   - DDos [Security](https://github.com/romoreira/SFI2-DDoS-Traffic-Classifcation)
 
+## Partners
+![partners](institutions.jpg)
 
 ## Financial Support
 
