@@ -1,4 +1,4 @@
-## This is the main Git Repository of the [SFI2 Project](https://sites.google.com/view/sfi2/)
+## This is the main Repository of the [SFI2 Project](https://sites.google.com/view/sfi2/)
 
 
 Below we list the repositories containing the code artifacts from the different research fronts of the project.
